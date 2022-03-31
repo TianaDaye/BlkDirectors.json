@@ -1,0 +1,81 @@
+[
+{
+    "name": "Spike Lee",
+    "Hometown": "ATL",
+    "Top Movies": ["Do The Right Thing", "Inside Man", "25th Hour"],
+    "Age": 65, 
+    "awards": ["Academy Award for Best Writing (Adapted Screenplay", "Cannes Grand Prix"]
+},
+
+{
+    "name": "Ava DuVernay",
+    "Hometown": "Long Beach, California",
+    "Top Movies": ["Selma", "13th", "Girls Trip"],
+    "Age": 49, 
+    "awards": ["John Cassavetes Award", "NAACP Image Award for Outstanding Writing in a Dramatic Series"]
+}, 
+
+{
+    "name": "Jordan Peele",
+    "Hometown": "NYC, NY",
+    "Top Movies": ["Us", "Candy Man", "Get Out"],
+    "Age": 43, 
+    "awards": ["Best Original Screenplay", "Ray Bradbury Award"]
+}, 
+
+{
+    "name": "Oscar Micheaux",
+    "Hometown": "Murphysboro, Illinois",
+    "Top Movies": ["Within Our Gates", "Swing", "Murder in Harlem"],
+    "Age": [67, "RIP"], 
+    "awards": ["DGA Golden Jubilee Special Award"]
+}, 
+
+{
+    "name": "William Greaves",
+    "Hometown": "NYC, NY",
+    "Top Movies": ["Still a Brother", "Symbiopsychotaxiplasm"],
+    "Age": [87, "RIP"],
+    "awards": ["National Society of Film Critics Experimental Film Award"]
+}, 
+
+{
+    "name": "Ryan Coogler",
+    "Hometown": "Oakland, California",
+    "Top Movies": ["Black Panther", "Creed", "Fruitvale Station"],
+    "Age": 35, 
+    "awards": ["Auteur Award", "NAACP Image Award for Outstanding Directing in a Motion Picture"]
+}, 
+
+{
+    "name": "Tyler Perry",
+    "Hometown": "New Orleans, Louisiana",
+    "Top Movies": ["Gone Girl", "Four Colored Girls", "Daddy's Little Girls"],
+    "Age": 52, 
+    "awards": ["Jean Hersholt Humanitarian Award", "People's Champion Award"]
+}, 
+
+{
+    "name": "Steve McQueen",
+    "Hometown": "Beech Grove, Indiana",
+    "Top Movies": ["Mangrove", "Lovers Roch", "Shame"],
+    "Age": 52, 
+    "awards": ["Academy Award for Best Picture", "Turner Prize"]
+}, 
+
+{
+    "name": "Barry Jenkins",
+    "Hometown": "Miami, Flordia",
+    "Top Movies": ["Moonlight", "If Beale Street Could Talk", "Charm City Kings"],
+    "Age": 42, 
+    "awards": ["Independent Spirit Award for Best Director", "Critics' Choice Movie Award for Best Adapted Screenplay"]
+}, 
+
+{
+    "name": "Antoine Fuqua",
+    "Hometown": "Pittsburgh, Pennsylvania",
+    "Top Movies": ["Training Day", "The Equalizer", "Southpaw"],
+    "Age": 56, 
+    "awards": ["Long Sports Documentary", "Black Reel Award for Best Director"]
+}
+]
